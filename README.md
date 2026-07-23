@@ -1,11 +1,162 @@
-# 💫 About Me:
-Full Stack Developer | Web Applications | Continuous Learner<br>Turning ideas into clean, functional, and scalable code.
+<div align="center">
 
+# Hi, I'm Ilyas 👋
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### Software Engineer • Full-Stack Developer • Problem Solver
 
+Building scalable applications, developer tools, and modern web experiences.
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New" />
 
+</div>
 
+---
 
+# 👨‍💻 About Me
+
+I'm a software engineer passionate about building software that solves real-world problems.
+
+I enjoy working across the full stack—from designing intuitive user interfaces to developing scalable backend services and automation tools.
+
+I'm constantly learning new technologies, improving my problem-solving skills, and building projects that challenge me.
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+
+---
+
+## Frontend
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- React
+- Next.js
+- Bootstrap
+
+---
+
+## Backend
+
+- Node.js
+- Express
+- REST APIs
+- Authentication
+- WebSockets
+
+---
+
+## Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Firebase
+
+---
+
+## Cloud & DevOps
+
+- Git
+- GitHub
+- Docker
+- Linux
+- Vercel
+- Netlify
+
+---
+
+## Tools
+
+- VS Code
+- Postman
+- Figma
+- npm
+- GitHub Actions
+
+---
+
+# 🌟 Featured Projects
+
+## Console Explainer
+
+AI-powered Chrome DevTools extension that automatically analyzes JavaScript console errors and provides intelligent explanations and suggested fixes.
+
+### Other Projects
+
+- Full-stack web applications
+- REST APIs
+- Discord Bots
+- Automation Tools
+- Chrome Extensions
+- UI/UX Projects
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 What I'm Working On
+
+- Building production-ready software
+- Learning distributed systems
+- Improving software architecture skills
+- Contributing to open source
+
+---
+
+# 📚 Interests
+
+- Software Engineering
+- Artificial Intelligence
+- Backend Development
+- Cybersecurity
+- Cloud Computing
+- System Design
+- Developer Tools
+
+---
+
+# 🤝 Let's Connect
+
+📧 your@email.com
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+---
+
+<div align="center">
+
+### "Great software is built one problem at a time."
+
+⭐ Thanks for visiting my profile!
+
+</div>
