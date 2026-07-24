@@ -35,17 +35,6 @@ I'm constantly learning new technologies, improving my problem-solving skills, a
 
 ---
 
-## Frontend
-
-- HTML5
-- CSS3
-- Tailwind CSS
-- React
-- Next.js
-- Bootstrap
-
----
-
 ## Backend
 
 - Node.js
@@ -87,20 +76,8 @@ I'm constantly learning new technologies, improving my problem-solving skills, a
 
 ---
 
-# 🌟 Featured Projects
 
-## Console Explainer
 
-AI-powered Chrome DevTools extension that automatically analyzes JavaScript console errors and provides intelligent explanations and suggested fixes.
-
-### Other Projects
-
-- Full-stack web applications
-- REST APIs
-- Discord Bots
-- Automation Tools
-- Chrome Extensions
-- UI/UX Projects
 
 ---
 
@@ -145,11 +122,10 @@ AI-powered Chrome DevTools extension that automatically analyzes JavaScript cons
 
 # 🤝 Let's Connect
 
-📧 your@email.com
+📧 ilyas.aboubakr.proff@gmail.com
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/ilyasaboubakr/)
 
-🌐 Portfolio
 
 ---
 
